@@ -18,6 +18,6 @@ public class Test1 {
         Figure[] figures = new Figure[]{r, r2, c1};
 
 
-        System.out.println("Area Sum : " + areaSum);
+        //System.out.println("Area Sum : " + areaSum);
     }
 }
